@@ -29,7 +29,7 @@
                     &kp TAB   &kp Q     &kp W    &kp E     &kp R     &kp T   &kp N7
         &kp F13     &kp ENTER &kp A     &kp S    &kp D     &kp F     &kp G   &kp N8
         &kp F14     &kp LSHFT &kp Z     &kp X    &kp C     &kp V     &kp B   &kp N9
-        &kp F15     &kp LCTRL &sl FUNC  &kp LALT           &kp SPACE         &lt ARROW N0
+        &kp F15     &kp LCTRL &sl FUNC  &kp LGUI           &kp SPACE         &lt ARROW N0
       >;
     };
 
@@ -48,7 +48,7 @@
                     &trans    &kp F1    &kp F2   &kp F3    &kp F4   &kp F5   &kp F6
                     &trans    &kp P     &kp O    &kp I     &kp U    &kp Y    &kp F7
         &bt BT_CLR  &kp BSPC  &kp SEMI  &kp L    &kp K     &kp J    &kp H    &kp F8
-        &sys_reset      &trans    &kp LGUI  &kp M    &kp N     &kp F12  &kp F11  &kp F9
+        &sys_reset      &trans    &kp LALT  &kp M    &kp N     &kp F12  &kp F11  &kp F9
         &bootloader &trans    &trans    &trans             &trans            &kp F10
       >;
     };
